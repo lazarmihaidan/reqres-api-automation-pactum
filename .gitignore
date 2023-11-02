@@ -1,0 +1,6 @@
+package-lock.json
+package.json
+customReportFilename.html
+customReportFilename.json
+node_modules
+testResults
